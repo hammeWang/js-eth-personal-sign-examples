@@ -4,6 +4,7 @@ this project is forked from [danfinlay/js-eth-personal-sign-examples](https://gi
 
 ### Description
 It is a useful implementation of EIP-712.
+
 这个项目实现了使用metamask对结构化的消息或者可读友好的消息进行签名。签名的消息可以直接在metamask对话框中可视化，并且可读友好。
 
 #### Specification
