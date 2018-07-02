@@ -10,13 +10,17 @@ It is a useful implementation of EIP-712.
 #### Specification
 1. sign readable message with metamask
 2. sign structured data with metamask
+
  note : both of the 2 above are readable.
 
 ### New Added
 add app.js to make this really runnable, maybe more friendly for beginners.
 
 ### How to use
-1. clone this project
+1. clone this project and import dependencies:
+```bash
+npm install
+```
 2. enter the folder and run:
  ```bash
  npm start
