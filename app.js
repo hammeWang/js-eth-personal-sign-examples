@@ -9,4 +9,4 @@ app.get('/', function(req, res) {
     res.sendFile('/Users/hammer/Downloads/itering/code/js-eth-personal-sign-examples/index.html');
 });
 
-app.listen(8090, function(){console.log('Listening on port 8090...');});
+app.listen(8080, function(){console.log('Listening on port 8080...');});
