@@ -13,7 +13,7 @@ It is a useful implementation of EIP-712.
 
  note : both of the 2 above are readable.
 
-### New Added
+### New-Added
 add app.js to make this really runnable, maybe more friendly for beginners.
 
 ### How to use
@@ -32,8 +32,8 @@ localhost:8080
 and just help yourself.
 
 ### TODO List
-- [ ] translate and explain eip191
-- [ ] translate and explain eip712
+- [X] translate and explain eip191
+- [X] translate and explain eip712
 - [ ] translate and explain eip155
  
 
